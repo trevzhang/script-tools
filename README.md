@@ -11,6 +11,7 @@
 以下是当前项目中包含的一些脚本示例：
 
 - `tst.sh`：一个用于转换时间戳和日期字符串的脚本，支持多种格式的输入和输出，适用于macOS和Linux环境。
+- `git_release.sh`: 快速发布分支，并合并到目标分支，fast-forward作为可选项
 - `hyperalfred`：使Alfred能够与Hyper终端配合使用（注意只能在Hyper不是焦点应用程序时才能正常工作）。
 - `hyperv.bat`:  切换windows下的hyper-v功能开关（一些模拟器和WSL不兼容，快速切换）。
 
